@@ -10,8 +10,11 @@ VCC-GND-A0-A1
 la conexion es la siguiente
 
 VCC->VCC
+
 OUT->A1
+
 SCK->A0
+
 GND->GND
 
 Es necesario hacer ajustes acorde a las unidades reales.
